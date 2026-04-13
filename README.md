@@ -91,7 +91,7 @@ cd urbanscope
 pip install -r requirements.txt
 
 # Run the analysis
-jupyter notebook "1.ipynb"
+jupyter notebook "UrbanScope.ipynb"
 ```
 
 > Datasets should be placed in the `datasets/` folder. The notebook handles cleaning and fusion automatically.
@@ -137,4 +137,3 @@ Open source — use it, improve it, share your findings.
 ---
 
 *Built with Python, scikit-learn, matplotlib, and a focus on actionable urban insights.*</content>
-<parameter name="filePath">/Users/vvsiscold/Downloads/URBAN SCOPE/README.md
